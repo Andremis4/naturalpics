@@ -1,13 +1,1 @@
-# React + Vite
-
-## Install
-
-```bash
-npm install
-```
-
-## Run
-
-```bash
-npm run dev
-```
+Aqui va el deploy! :) https://naturalpics.vercel.app/ 
